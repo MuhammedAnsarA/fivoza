@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346939594435",
+    "project_id": "fivoza-ba87b",
+    "storage_bucket": "fivoza-ba87b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346939594435:android:73369f2f3730a30844f476",
+        "android_client_info": {
+          "package_name": "abc.fivoza.fivoza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0IBnxMoHpYncSdlvagxgocF3EciDQPfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
