@@ -20,6 +20,7 @@ GoRouter goRouter = GoRouter(
           child: const SplashScreen(),
         );
       },
+      redirect: (context, state) {},
     )
   ],
 );

@@ -1,6 +1,6 @@
 class AppStrings {
   // auth
-  static const String weekPassword = 'your password is too weak';
+  static const String weakPassword = 'your password is too weak';
   static const String emailAlreadyUsed = 'This email already registered';
   static const String invalidEmail = 'Your email is not a valid email';
   static const String emailVerifySuccess =
