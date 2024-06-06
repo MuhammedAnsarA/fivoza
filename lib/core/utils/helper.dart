@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 class Helper {
-  static double screeHeight(BuildContext context) =>
+  static double screenHeight(BuildContext context) =>
       MediaQuery.of(context).size.height;
 
-  static double screeWidth(BuildContext context) =>
+  static double screenWidth(BuildContext context) =>
       MediaQuery.of(context).size.width;
 
   static bool isLandscape(BuildContext context) =>

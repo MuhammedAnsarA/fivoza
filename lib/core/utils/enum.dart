@@ -9,3 +9,8 @@ enum BlocStatus {
   success,
   error,
 }
+
+enum UserTypes {
+  admin,
+  user,
+}
